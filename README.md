@@ -7,7 +7,7 @@ So what's it all about?
 
 ## Give me an item!
 
-The general idea behind ultimate bravery is getting random items for a random champion. Usually the items you have to built are determined before the match begins.
+The general idea behind ultimate bravery is getting random items for a random champion. Usually the items you have to build are determined before the match begins.
 
 We do things differently.
 
